@@ -9,7 +9,14 @@ A Python-based real-time Morse code translator that uses **Computer Vision** to 
 - **Full-Screen HUD:** Professional UI with a built-in Morse reference chart.
 
 ## 🎮 Gesture Controls
-(Insert the table above)
+Gesture,Action
+☝️ 1 Finger,Add a Dot (.)
+✌️ 2 Fingers,Add a Dash (-)
+✊ Fist (0 Fingers),Lock Letter (Instant)
+🤟 3 Fingers,Backspace (Delete last letter)
+🖖 4 Fingers,Speak (Read entire sentence)
+👍 Thumb Only,Add Space
+✋ 5 Fingers,Clear Morse Buffer
 
 ## 🚀 How to Run
 1. **Install requirements:**
